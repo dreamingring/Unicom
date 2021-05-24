@@ -1,8 +1,8 @@
 [
     {
-        "username": "13271005895",
-        "password": "521999",
-        "appId": "1f7af72ad6912d306b5053abf90c7ebbeece2b32d9d947a72d79edee590681e0972aabb46a0b17865ac194a1aabadc15b85e33238ccf654630b93cf6473fb337df9d94e2cf7278bfd767d21b2d2cbb1a16a84c4bbf20ab92a54a41e8e9473952 ",
+        "username": "",
+        "password": "",
+        "appId": "",
         "email": "邮箱（选填，不填请删除此行）",
         "lotteryNum": "抽奖次数（选填，不填请删除此行）",
         "dingtalkWebhook": "钉钉通知 https://oapi.dingtalk.com/robot/send?access_token=xxxx（选填，不填请删除此行）",
